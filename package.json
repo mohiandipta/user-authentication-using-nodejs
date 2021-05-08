@@ -1,0 +1,16 @@
+{
+  "name": "user-athentication",
+  "version": "1.0.0",
+  "description": "User authentication with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohian Dipta",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
